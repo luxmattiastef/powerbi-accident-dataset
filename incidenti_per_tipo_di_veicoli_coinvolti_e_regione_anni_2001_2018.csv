@@ -1,4 +1,4 @@
-Regione,Anno,totale incidenti,autovettura privata,autov. priv. con rimorchio, autovettura pubblica,autov. soccorso o polizia,autobus o filobus servizio urbano,autobus servizio extra-urbano,tram,autocarro,autotreno con rimorchio,autosnodato autoarticolato,veicoli speciali,trattore stradale o motrice,trattore agricolo,velocipede,ciclomotore,motociclo a solo,motociclo con passeggero,motocarro o motofurgone,veicolo trazione animale o braccia,veicolo ignoto datosi alla fuga,quadriciclo leggero,altri veicoli,totale veicoli coinvolti,
+Regione,Anno,totale incidenti,autovettura privata,autov. priv. con rimorchio, autovettura pubblica,autov. soccorso o polizia,autobus o filobus servizio urbano,autobus servizio extra-urbano,tram,autocarro,autotreno con rimorchio,autosnodato autoarticolato,veicoli speciali,trattore stradale o motrice,trattore agricolo,velocipede,ciclomotore,motociclo a solo,motociclo con passeggero,motocarro o motofurgone,veicolo trazione animale o braccia,veicolo ignoto datosi alla fuga,quadriciclo leggero,altri veicoli,totale veicoli coinvolti
 Piemonte,2001,16953,23818,19,77,167,146,80,67,1942,123,254,153,50,59,824,1920,1037,653,50,4,23,0,112,31578
 Valle d'Aosta,2001,447,601,1,0,4,4,4,0,71,3,3,5,1,0,14,49,34,30,3,0,0,0,1,828
 Lombardia,2001,54071,67805,27,492,362,401,233,259,6089,279,738,241,120,76,3230,12181,5928,1931,72,20,436,0,889,101809
@@ -439,3 +439,4 @@ Sicilia,2018,11019,13942,19,30,87,39,46,18,786,18,37,39,44,15,386,972,2722,600,4
 Sardegna,2018,3461,4747,5,12,22,24,25,1,271,1,7,17,20,10,108,152,542,68,11,1,6,7,0,6057,
 Italia Meridionale e Insulare,2018,41425,56158,50,105,262,184,196,21,3103,63,198,191,264,115,1614,2415,7984,1860,168,8,412,155,0,75526,
 Totale 2018,2018,172553,214704,125,1039,841,1337,1060,172,16687,293,1284,1076,1689,380,16741,9883,37698,5153,317,16,1727,610,0,312832,
+
